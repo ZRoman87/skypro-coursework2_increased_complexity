@@ -1,0 +1,25 @@
+GET http://localhost:8080/exam/math/add?question=MathQuestionText1&answer=MathQuestionAnswer1
+###
+GET http://localhost:8080/exam/math/add?question=MathQuestionText2&answer=MathQuestionAnswer2
+###
+GET http://localhost:8080/exam/math/add?question=MathQuestionText3&answer=MathQuestionAnswer3
+###
+GET http://localhost:8080/exam/math/add?question=MathQuestionText4&answer=MathQuestionAnswer4
+###
+GET http://localhost:8080/exam/math/add?question=MathQuestionText5&answer=MathQuestionAnswer5
+###
+GET http://localhost:8080/exam/math/add?question=Text&answer=Text
+###
+GET http://localhost:8080/exam/math/remove?question=MathQuestionText1&answer=MathQuestionAnswer1
+###
+GET http://localhost:8080/exam/math/
+###
+GET http://localhost:8080/exam/math/random
+###
+GET http://localhost:8080/exam/get/2
+###
+GET http://localhost:8080/exam/math/get/3
+###
+
+
+
