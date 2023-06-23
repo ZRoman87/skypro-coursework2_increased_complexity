@@ -1,0 +1,25 @@
+GET http://localhost:8080/exam/java/add?question=JavaQuestionText1&answer=JavaQuestionAnswer1
+###
+GET http://localhost:8080/exam/java/add?question=JavaQuestionText2&answer=JavaQuestionAnswer2
+###
+GET http://localhost:8080/exam/java/add?question=JavaQuestionText3&answer=JavaQuestionAnswer3
+###
+GET http://localhost:8080/exam/java/add?question=JavaQuestionText4&answer=JavaQuestionAnswer4
+###
+GET http://localhost:8080/exam/java/add?question=JavaQuestionText5&answer=JavaQuestionAnswer5
+###
+GET http://localhost:8080/exam/java/add?question=Text&answer=Text
+###
+GET http://localhost:8080/exam/java/remove?question=JavaQuestionText1&answer=JavaQuestionAnswer1
+###
+GET http://localhost:8080/exam/java/
+###
+GET http://localhost:8080/exam/java/random
+###
+GET http://localhost:8080/exam/get/5
+###
+GET http://localhost:8080/exam/java/get/3
+###
+
+
+

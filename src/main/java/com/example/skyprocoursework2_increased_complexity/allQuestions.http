@@ -1,0 +1,14 @@
+###
+GET http://localhost:8080/exam/get/5
+###
+GET http://localhost:8080/exam/java/get/5
+###
+GET http://localhost:8080/exam/math/get/5
+###
+GET http://localhost:8080/exam/math/
+###
+GET http://localhost:8080/exam/java/
+
+
+
+
